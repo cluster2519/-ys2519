@@ -1,7 +1,7 @@
 package quickstart;
 
 /** */
-@javax.annotation.Generated(value = { "Doma", "1.35.0" }, date = "2015-05-16T16:59:41.984+0900")
+@javax.annotation.Generated(value = { "Doma", "1.35.0" }, date = "2015-05-26T21:02:54.937+0900")
 public final class _Employee extends org.seasar.doma.jdbc.entity.AbstractEntityType<quickstart.Employee> {
 
     static {
