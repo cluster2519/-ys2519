@@ -1,7 +1,7 @@
 package quickstart;
 
 /** */
-@javax.annotation.Generated(value = { "Doma", "1.35.0" }, date = "2015-05-16T16:59:42.250+0900")
+@javax.annotation.Generated(value = { "Doma", "1.35.0" }, date = "2015-05-26T21:13:20.359+0900")
 public class EmployeeDaoImpl extends org.seasar.doma.internal.jdbc.dao.AbstractDao implements quickstart.EmployeeDao {
 
     static {
