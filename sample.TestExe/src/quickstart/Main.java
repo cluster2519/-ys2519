@@ -20,7 +20,7 @@ public class Main {
             Employee employee = dao.selectById(1);
 
             // エンティティのプロパティを変更
-            employee.employeeName = "yoshirou";
+            employee.employeeName = "yoshirou tester yes";
             employee.salary = employee.salary.add(new BigDecimal(1000));
 
             // エンティティを更新

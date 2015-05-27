@@ -1,0 +1,1 @@
+update from EMPLOYEE set employee_name = /* employeeName */ where EMPLOYEE_ID = /* employeeId */99
